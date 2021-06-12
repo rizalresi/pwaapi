@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Boa, cook's tree","category":"Indigo"},
+{"id":2,"name":"Goat, mountain","category":"Fuscia"},
+{"id":3,"name":"Sifaka, verreaux's","category":"Green"},
+{"id":4,"name":"Common palm civet","category":"Purple"},
+{"id":5,"name":"Madagascar fruit bat","category":"Indigo"},
+{"id":6,"name":"Crane, sandhill","category":"Violet"},
+{"id":7,"name":"Monkey, rhesus","category":"Yellow"},
+{"id":8,"name":"Japanese macaque","category":"Maroon"},
+{"id":9,"name":"Colobus, white-mantled","category":"Yellow"},
+{"id":10,"name":"Grey phalarope","category":"Indigo"},
+{"id":11,"name":"Brown antechinus","category":"Goldenrod"},
+{"id":12,"name":"Egyptian vulture","category":"Pink"},
+{"id":13,"name":"Booby, blue-faced","category":"Mauv"},
+{"id":14,"name":"Steenbuck","category":"Aquamarine"},
+{"id":15,"name":"Blue shark","category":"Fuscia"},
+{"id":16,"name":"Cormorant, large","category":"Yellow"},
+{"id":17,"name":"Tern, royal","category":"Purple"},
+{"id":18,"name":"Wagtail, african pied","category":"Green"},
+{"id":19,"name":"Asian red fox","category":"Orange"},
+{"id":20,"name":"Hornbill, leadbeateri's ground","category":"Goldenrod"}
+]
+}
